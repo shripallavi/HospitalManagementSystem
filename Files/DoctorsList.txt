@@ -1,0 +1,14 @@
+Dr.Venkat Physician
+Dr.Shraddha Dermatologist
+Dr.Prabhakaran Cardiologist
+Dr.Meenakshi Gynecologist
+Dr.Seshadri Psychiatrist
+Dr.Ravichandran ENTSpecialist
+Dr.Sanketh Dentist
+Dr.Srinivas Diabetologist
+Dr.Sangeetha Cardiologist
+Dr.Rameshwar Ophthalmologist
+Dr.Sravya Cardiologist
+Dr.Naveen Orthopedist
+Dr.Drake Neurologist
+Dr.Naveen Physician

@@ -1,0 +1,14 @@
+Dr.Ramesh 1234 Ramesh M 50 Hyderabad 9876543210 Ophthalmologist 4
+Dr.Venkat 12345678 Venkat M 45 Hyderabad 9876789067 Physician 5
+Dr.Shraddha 12345678 Shraddha F 35 Hyderabad 9876543219 Dermatologist 5
+Dr.Prabhakaran 12345678 Prabhakaran M 45 Chennai 9876543673 Cardiologist 4
+Dr.Meenakshi 12345678 Meenakshi F 35 Hyderabad 9876543217 Gynecologist 3
+Dr.Seshadri 12345678 Seshadri M 35 Hyderabad 9827365472 Psychiatrist 5
+Dr.Ravichandran 12345678 Ravichandran M 35 Hyderabad 9873262873 ENTSpecialist 6
+Dr.Sanketh 12345678 Sanketh M 35 Hyderabad 8765432198 Dentist 7
+Dr.Srinivas 12345678 Srinivas M 35 Hyderabad 7623798343 Diabetologist 3
+Dr.Sangeetha 12345678 Sangeetha F 35 Hyderabad 8765428323 Cardiologist 5
+Dr.Rameshwar 12345678 Rameshwar M 35 Hyderabad 9988776655 Ophthalmologist 6
+Dr.Sravya sravyareddy Dr.Sravya F 25 Hyderabad 2345466754 Cardiologist 3
+Dr.Drake password DrakeRamuray M 36 Nampally 9873261782 Neurologist 1
+Dr.Naveen 12345678 NaveenManda M 39 Hyderabad 9876543219 Physician 6
