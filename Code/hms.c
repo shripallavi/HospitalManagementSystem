@@ -1,6 +1,5 @@
 //MINI PROJECT - HOSPITAL MANAGEMENT SYSTEM
 //1602-19-737-171 - G. Shri Pallavi
-//1602-19-737-141 - N. Nanditha Reddy
 
 //HEADER FILES
 #include<windows.h>
